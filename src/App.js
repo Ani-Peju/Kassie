@@ -8,6 +8,7 @@ function App() {
         <Header />
         <Main />
           <Footer />
+          // This is the main component
       </div>
 
   );
